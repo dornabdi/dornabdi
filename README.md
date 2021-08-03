@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub!
+You can find my projects here. Check out my [LinkedIn](https://www.linkedin.com/in/dornaabdi/) as well!
+
+
 
 <!--
 **dornabdi/dornabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
